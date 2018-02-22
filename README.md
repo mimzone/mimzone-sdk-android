@@ -5,4 +5,4 @@ In this repository you will find documentation and examples but not the SDK's co
 
 - Read [Getting Started](https://github.com/mimzone/mimzone-sdk-android/wiki/Getting-Started) on the wiki
 - Find a working demo app on [/demo](demo)
-- Find a JavaDoc reference of the SDK code in [/reference](reference)
+- [Read the Javadoc reference of the SDK](https://mimzone.github.io/mimzone-sdk-android/reference/) code in [/reference](reference)
